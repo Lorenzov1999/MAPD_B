@@ -18,9 +18,7 @@ Exercises of Management and Analysis of Physics Datasets course MSc in Physic of
     - Kuzushiji classification with Support Vector Machines
 - LAB3
     - Kuzushiji classification with Neural Networks
-
-<h6 align="center">repository by Lorenzo Valentini</h6>
-
+    - 
 <h5 align="center">Lab of Computational Physics (module B) project<br>AY 2021/2022 University of Padua</h5>
 
 <p align="center">
