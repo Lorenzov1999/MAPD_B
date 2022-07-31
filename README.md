@@ -2,9 +2,7 @@
 
 <h1 align="center">Management and Analysis of Physics Datasets</h1>
 
-This repository contains the exercises for the *Machine Learning* [course](https://didattica.unipd.it/off/2021/LM/SC/SC2443/000ZZ/SCP8082660/N0), by **Prof. Zanuttigh**, AY 2021/22.
-
-Exercises of Management and Analysis of Physics Datasets course MSc in Physic of Data at University of Padua 2021-2022.
+This repository contains exercises of *Management and Analysis of Physics Datasets* [course](https://didattica.unipd.it/off/2021/LM/SC/SC2443/000ZZ/SCP8082660/N0) by **Prof. Pazzini** MSc in Physic of Data at University of Padua 2021-2022.
 
 
 
